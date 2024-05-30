@@ -6,7 +6,6 @@
 - 🔭 At the moment, I work for Volvo dealer Treviso, in Brazil, as a Marketing Analyst. <br>
 - 🎓 My first graduation was Publicity and Advertising. Now I'm currently studying Systems Analysis and Development. <br>
 - 🗣️ I can speak Portuguese, English and a bit of Spanish and German. <br>
-- 😄 Pronouns: She/her <br>
 - ⚡ Fun fact: As a child, I wanted to be an Archeologist
 
 <h3 align="left">Connect with me:</h3>
