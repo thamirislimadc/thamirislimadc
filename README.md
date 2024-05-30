@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thamiris Lima</h1>
-<h3 align="center">A passionate IT student from Brazil</h3>
+<h3 align="center">An IT student from Brazil</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thamirislimadc&label=Profile%20views&color=0e75b6&style=flat" alt="thamirislimadc" /> </p>
 
 <h3 align="left">About me:</h3>
