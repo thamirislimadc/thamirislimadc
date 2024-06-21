@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Thamiris Lima</h1>
-<h3 align="center">An IT student from Brazil</h3>
+<h1 align="center">Olá 👋, eu sou a Thamiris Lima!</h1>
+<h3 align="center">Sou uma estudande de TI do Brasil</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thamirislimadc&label=Profile%20views&color=0e75b6&style=flat" alt="thamirislimadc" /> </p>
 
 <h3>Sobre mim:</h3>
 - 🔭 No momento, trabalho para a concessionária Volvo Treviso, no Brasil, como Analista de Marketing. <br>
 - 🎓 Minha primeira graduação foi em Publicidade e Propaganda. Agora estou cursando Análise e Desenvolvimento de Sistemas. <br>
-- 🗣️ Eu falo português, inglês e um pouco de espanhol e alemão. <br>
-- ⚡ Curiosidade: quando criança, eu queria ser arqueóloga. <br>
+- 🗣️ Falo português, inglês e um pouco de espanhol e alemão. <br>
+- ⚡ Curiosidade: quando criança, queria ser arqueóloga. <br>
 - 🎡 Hobbies: cinema, livros, séries, documentários históricos e de astronomia. 
 
 <h3>Meus contatos:</h3>
 <p>
-<a href="https://www.linkedin.com/in/thamiris" taget="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" taget="_blank"></a>
+<a href="https://www.linkedin.com/in/thamirislima" taget="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" taget="_blank"></a>
 <a href="https://instagram.com/thamirislimadc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:thamirislimadc@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 </p>
