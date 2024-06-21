@@ -2,20 +2,29 @@
 <h3 align="center">An IT student from Brazil</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thamirislimadc&label=Profile%20views&color=0e75b6&style=flat" alt="thamirislimadc" /> </p>
 
-<h3 align="left">About me:</h3>
-- 🔭 At the moment, I work for Volvo dealer Treviso, in Brazil, as a Marketing Analyst. <br>
-- 🎓 My first graduation was Publicity and Advertising. Now I'm currently studying Systems Analysis and Development. <br>
-- 🗣️ I can speak Portuguese, English and a bit of Spanish and German. <br>
-- ⚡ Fun fact: As a child, I wanted to be an Archeologist.
+<h3>Sobre mim:</h3>
+- 🔭 No momento, trabalho para a concessionária Volvo Treviso, no Brasil, como Analista de Marketing. <br>
+- 🎓 Minha primeira graduação foi em Publicidade e Propaganda. Agora estou cursando Análise e Desenvolvimento de Sistemas. <br>
+- 🗣️ Eu falo português, inglês e um pouco de espanhol e alemão. <br>
+- ⚡ Curiosidade: quando criança, eu queria ser arqueóloga. <br>
+- 🎡 Hobbies: cinema, livros, séries, documentários históricos e de astronomia. 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/thamirislima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thamirislima" height="30" width="40" /></a>
-<a href="https://instagram.com/thamirislimadc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thamirislimadc" height="30" width="40" /></a>
+<h3>Meus contatos:</h3>
+<p>
+<a href="https://www.linkedin.com/in/thamiris" taget="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" taget="_blank"></a>
+<a href="https://instagram.com/thamirislimadc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:thamirislimadc@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 </p>
 
-<h3 align="left">Languages and tools I'm currently learning:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3>Linguagens que estou estudando atualmente:</h3>
+<p align="left"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></p>
 
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thamirislimadc&show_icons=true&locale=en" alt="thamirislimadc" /></p>
+<h3>Ferramentas:</h3>
+<p align="left"> <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img alt="Figma" src="https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma">
+<img alt="VSCode" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></p>
+
+<h3>GitHub Stats:</h3>
+
+![thamirislimadc's Stats](https://github-readme-stats.vercel.app/api?username=thamirislimadc&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+![thamirislimadc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thamirislimadc&theme=dracula&show_icons=true&hide_border=false&layout=compact)
