@@ -1,5 +1,4 @@
-<h1 align="center">Olá 👋, eu sou a Thamiris Lima!</h1>
-<h3 align="center">Sou uma estudande de TI do Brasil</h3>
+<h1 align="center">Olá 👋, eu sou a Thamiris!</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thamirislimadc&label=Profile%20views&color=0e75b6&style=flat" alt="thamirislimadc" /> </p>
 
 <h3>Sobre mim:</h3>
