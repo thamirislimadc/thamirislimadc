@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thamirislimadc&label=Profile%20views&color=0e75b6&style=flat" alt="thamirislimadc" /> </p>
 
 <h3>Sobre mim</h3>
-- 🔭 No momento, trabalho para a concessionária Volvo Treviso, no Brasil, como Analista de Marketing. <br>
+- 🔭 No momento, trabalho para a concessionária Volvo Treviso como Analista de Marketing. <br>
 - 🎓 Minha primeira graduação foi em Publicidade e Propaganda. Agora estou cursando Análise e Desenvolvimento de Sistemas. <br>
 - 🗣️ Falo português, inglês e um pouco de alemão. <br>
 - 🎡 Hobbies: viagens, fotografria, cinema, livros, séries, documentários históricos e de astronomia. 
