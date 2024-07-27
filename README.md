@@ -3,7 +3,7 @@
 
 <h3>Sobre mim</h3>
 - 🔭 No momento, trabalho para a concessionária Volvo Treviso como Analista de Marketing. <br>
-- 🎓 Minha primeira graduação foi em Publicidade e Propaganda. Agora estou cursando o 4º período de Análise e Desenvolvimento de Sistemas. <br>
+- 🎓Graduada em Publicidade e Propaganda, atualmente estou cursando 4º período de Análise e Desenvolvimento de Sistemas. <br>
 - 🗣️ Falo português, inglês e um pouco de alemão. <br>
 - 🎡 Hobbies: viagens, fotografia, cinema, séries, documentários e esportes. 
 
