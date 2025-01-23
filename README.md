@@ -2,8 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thamirislimadc&label=Profile%20views&color=0e75b6&style=flat" alt="thamirislimadc" /> </p>
 
 <h3>Sobre mim</h3>
-- 🔭 No momento, trabalho para a concessionária Volvo Treviso como Analista de Marketing. <br>
-- 🎓 Graduada em Publicidade e Propaganda, atualmente estou cursando o 4º período de Análise e Desenvolvimento de Sistemas. <br>
+- 🎓 Graduada em Publicidade e Propaganda com pós MBA em Gestão da Comunicação Organizacional, atualmente estou cursando o 5º e último período do curso de Análise e Desenvolvimento de Sistemas. <br>
 - 🗣️ Falo português, inglês e um pouco de alemão. <br>
 - 🎡 Hobbies: viagens, fotografia, cinema, séries, documentários e esportes. 
 
@@ -22,10 +21,8 @@
 <img alt="VSCode" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"> <img alt="Windows"src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"> </p>
 
 <h3>Cloud</h3>
-<p align="left"> <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"> <br>
-
-![microsoft badge](https://github.com/user-attachments/assets/ee75421f-f360-4831-a2e8-8698b2f000f7)
-
+<img src="https://github.com/user-attachments/assets/8dfef170-5da8-4b35-8187-6759868bc532" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/0cb0fbc4-c88d-4edb-b8ba-e364f039084f" width="200" height="200">
 
 <h3>GitHub Stats</h3>
 
